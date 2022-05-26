@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30104.148
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "crestron-lwrf-gen2", "crestron-lwrf-gen2\crestron-lwrf-gen2.csproj", "{AE312EE1-1FE9-4A37-A78F-6C88A6ACB6A5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "crestron-lwrf-gen2-test", "crestron-lwrf-gen2-test\crestron-lwrf-gen2-test.csproj", "{C3518524-DF07-4845-8EA2-11B30C57DD34}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AE312EE1-1FE9-4A37-A78F-6C88A6ACB6A5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AE312EE1-1FE9-4A37-A78F-6C88A6ACB6A5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AE312EE1-1FE9-4A37-A78F-6C88A6ACB6A5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AE312EE1-1FE9-4A37-A78F-6C88A6ACB6A5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C3518524-DF07-4845-8EA2-11B30C57DD34}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C3518524-DF07-4845-8EA2-11B30C57DD34}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C3518524-DF07-4845-8EA2-11B30C57DD34}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C3518524-DF07-4845-8EA2-11B30C57DD34}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C981B248-C361-4C09-8DE3-FD7401A952E5}
+	EndGlobalSection
+EndGlobal
